@@ -22,17 +22,17 @@ const Footer = () => (
         <h2 className="text-lg font-semibold">Social Media</h2>
         <ul className="mt-4 leading-loose">
           <li>
-            <a href="https://pgu.dev">pgu.dev</a>
+            <a href="https://pgu.dev">Personal website</a>
           </li>
           <li>
             <a href="https://twitter.com/nakkht">Twitter</a>
           </li>
           <li>
-            <a href="https://github.com/nakkht">GitHub</a>
+            <a href="https://github.com/neqsoft">GitHub</a>
           </li>
         </ul>
       </div>
-    </div>
+      </div>
   </footer>
 );
 
