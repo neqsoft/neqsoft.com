@@ -12,17 +12,8 @@ const Header = () => (
         neqsoft
       </div>
       <div className="flex mt-4 sm:mt-0">
-        <AnchorLink className="px-4" href="#features">
-          Features
-        </AnchorLink>
         <AnchorLink className="px-4" href="#services">
           Services
-        </AnchorLink>
-        <AnchorLink className="px-4" href="#stats">
-          Stats
-        </AnchorLink>
-        <AnchorLink className="px-4" href="#testimonials">
-          Testimonials
         </AnchorLink>
       </div>
     </div>
