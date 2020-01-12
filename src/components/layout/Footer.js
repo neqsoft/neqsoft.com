@@ -1,4 +1,5 @@
 import React from 'react';
+import Helmet from 'react-helmet';
 
 const Footer = () => (
   <footer className="container mx-auto py-16 px-3 mt-48 mb-8 text-gray-800">
@@ -21,6 +22,12 @@ const Footer = () => (
           </li>
         </ul>
       </div>
+    </div>
+    <div className="application">
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>neqsoft</title>
+      </Helmet>
     </div>
   </footer>
 );
