@@ -12,7 +12,7 @@ const Footer = () => (
         <h2 className="text-lg font-semibold">Social Media</h2>
         <ul className="mt-4 leading-loose">
           <li>
-            <a href="https://pgu.dev">Personal website</a>
+            <a href="https://www.linkedin.com/company/neqsoft">LinkedIn</a>
           </li>
           <li>
             <a href="https://twitter.com/nakkht">Twitter</a>
