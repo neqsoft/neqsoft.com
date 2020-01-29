@@ -1,13 +1,12 @@
 {
-  "name": "gatsby-starter-lander",
-  "author": "Hunter Chang",
-  "repository": "https://github.com/codebushi/gatsby-starter-lander",
+  "name": "neqsoft-landing-page",
+  "author": "Paulius Gudonis",
+  "repository": "https://github.com/neqsoft/neqsoft.com",
   "version": "1.0.0",
-  "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
     "build": "gatsby build",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public -r https://$GH_TOKEN@github.com/neqsoft/neqsoft.com.git"
+    "deploy": "gatsby build --prefix-paths && gh-pages -f -d public -r https://$GH_TOKEN@github.com/neqsoft/neqsoft.com.git -u \"Paulius Gudonis <pg@neqsoft.com>\" -m Deploy"
   },
   "dependencies": {
     "gatsby": "^2.18.18",
