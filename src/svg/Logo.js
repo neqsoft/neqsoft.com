@@ -1,17 +1,9 @@
 import React from 'react';
 
 const Logo = () => (
-<svg width="100%" height="100%" viewBox="0 0 350 351" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="175" cy="174.377" r="21" fill="#4F4F4F"/>
-<ellipse rx="153" ry="35" transform="matrix(-0.817687 -0.575663 -0.575663 0.817687 175 175.377)" stroke="#484848" stroke-width="2" stroke-linecap="round"/>
-<ellipse rx="153" ry="35" transform="matrix(-0.817687 -0.575663 -0.575663 0.817687 175 175.377)" stroke="#484848" stroke-width="2" stroke-linecap="round"/>
-<circle r="11.5" transform="matrix(-0.817687 -0.575663 -0.575663 0.817687 100.46 160.955)" fill="#4F4F4F"/>
-<ellipse rx="153" ry="35" transform="matrix(0.813839 -0.581091 -0.581091 -0.813839 178.021 176.591)" stroke="#484848" stroke-width="2" stroke-linecap="round"/>
-<ellipse rx="153" ry="35" transform="matrix(0.813839 -0.581091 -0.581091 -0.813839 178.021 176.591)" stroke="#484848" stroke-width="2" stroke-linecap="round"/>
-<circle r="11.5" transform="matrix(0.813839 -0.581091 -0.581091 -0.813839 216.298 111.024)" fill="#4F4F4F"/>
-<ellipse cx="175" cy="175.377" rx="153" ry="35" stroke="#484848" stroke-width="2" stroke-linecap="round"/>
-<ellipse cx="175" cy="175.377" rx="153" ry="35" stroke="#484848" stroke-width="2" stroke-linecap="round"/>
-<circle cx="304.5" cy="193.877" r="11.5" fill="#4F4F4F"/>
+<svg width="100%" height="100%" viewBox="0 0 350 350" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="350" height="350" fill="white"/>
+<path d="M79.0001 107.94L79.0001 299C79.0001 299.552 79.4478 300 80.0001 300H127.356C127.909 300 128.356 299.552 128.356 299V157.296M271.06 300L128.356 157.296M128.356 157.296L103.678 132.618M271.06 242.06V51C271.06 50.4477 270.613 50 270.06 50L222.704 50C222.152 50 221.704 50.4477 221.704 51V192.704M79 50L221.704 192.704M221.704 192.704L246.382 217.382" stroke="#4F4F4F" stroke-width="10" stroke-linecap="round"/>
 </svg>
 
 );
