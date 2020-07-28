@@ -4,10 +4,11 @@ import Helmet from 'react-helmet';
 const Footer = () => (
   <footer className="container mx-auto py-16 px-3 mt-48 mb-8 text-gray-800">
 
-    <div className="flex justify-around">    
+    <div className="flex justify-around">   
+
       <div className="p-2">
         <h2 className="text-lg font-semibold">Social Media</h2>
-        <ul className="mt-4 leading-loose">
+        <ul className="mt-2 leading-loose">
           <li>
             <a href="https://www.linkedin.com/company/neqsoft">LinkedIn</a>
           </li>
@@ -22,7 +23,9 @@ const Footer = () => (
 
       <div id="contact" className="p-2">
         <h2 className="text-lg font-semibold">Contact</h2>
-        <a href="mailto:pg@neqsoft.com">E-mail</a>
+        <div className="mt-2 leading-loose">
+          <a href="mailto:pg@neqsoft.com">E-mail</a>
+        </div>
       </div>
 
     </div>
