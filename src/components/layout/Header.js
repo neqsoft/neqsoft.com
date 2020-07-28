@@ -15,6 +15,10 @@ const Header = () => (
         <AnchorLink className="px-4" href="#services">
           Services
         </AnchorLink>
+        
+        <AnchorLink className="px-4" href="#contact">
+          Contact
+        </AnchorLink>
       </div>
     </div>
   </header>
