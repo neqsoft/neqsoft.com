@@ -11,9 +11,6 @@ export default () => (
           <h1 className="text-4xl lg:text-5xl xl:text-6xl font-bold leading-none">
             neqsoft
           </h1>
-          <p className="text-xl lg:text-2xl mt-6 font-light">
-          Page under construction
-          </p>
         </div>
         <div className="lg:w-1/2">
           <HeroImage />
