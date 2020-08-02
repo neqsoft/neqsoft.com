@@ -9,7 +9,7 @@
     "deploy": "gatsby build --prefix-paths && gh-pages -f -d public -r https://$GH_TOKEN@github.com/neqsoft/neqsoft.com.git -u \"Paulius Gudonis <pg@neqsoft.com>\" -m Deploy"
   },
   "dependencies": {
-    "gatsby": "2.24.11",
+    "gatsby": "2.24.23",
     "gatsby-plugin-react-helmet": "3.3.10",
     "gatsby-theme-codebushi": "1.0.0",
     "react": "16.13.0",
