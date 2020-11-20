@@ -9,8 +9,8 @@
     "deploy": "gatsby build --prefix-paths && gh-pages -f -d public -r https://$GH_TOKEN@github.com/neqsoft/neqsoft.com.git -u \"Paulius Gudonis <pg@neqsoft.com>\" -m Deploy"
   },
   "dependencies": {
-    "gatsby": "2.25.2",
-    "gatsby-plugin-react-helmet": "3.3.14",
+    "gatsby": "2.27.0",
+    "gatsby-plugin-react-helmet": "3.5.0",
     "gatsby-theme-codebushi": "1.0.0",
     "react": "16.12.0",
     "react-anchor-link-smooth-scroll": "1.0.12",
@@ -18,8 +18,8 @@
     "react-helmet": "6.1.0"
   },
   "devDependencies": {
-    "eslint": "7.12.1",
-    "eslint-config-airbnb": "18.2.0",
+    "eslint": "7.13.0",
+    "eslint-config-airbnb": "18.2.1",
     "eslint-config-prettier": "6.15.0",
     "eslint-plugin-import": "2.22.1",
     "eslint-plugin-jsx-a11y": "6.4.1",
@@ -27,6 +27,6 @@
     "eslint-plugin-react": "7.21.5",
     "eslint-plugin-react-hooks": "4.2.0",
     "gh-pages": "3.1.0",
-    "prettier": "2.1.2"
+    "prettier": "2.2.0"
   }
 }
