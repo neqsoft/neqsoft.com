@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Github",
+    "link": "https://github.com/neqsoft",
+    "image": "images/social/github.svg"
+  },
+  {
+    "name": "Twitter",
+    "link": "http://twitter.com/neqsoft",
+    "image": "images/social/twitter.svg"
+  }
+]
