@@ -1,4 +1,5 @@
-baseurl: 'neqsoft.com/'
+baseurl: ""
+url: "https://neqsoft.com"
 permalink: pretty
 title: 'neqsoft'
 
